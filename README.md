@@ -24,7 +24,7 @@ Notably, an A class can contain a field of type B, where B is defined later in t
   $ java Main [file1] [file2] ...
 ```
 **[file1] [file2] etc. are the examples files you chose from the examples folder. The programm can run multiple examples at once. <br /><br />
-🔹 In the output the variables and the functions are printed in bytes-order they are stored in the pc memory.
+🔹 In the output the variables and the functions are printed together with their memory-offset and scope.
 
 ## Built With
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Java_20131025_1864663017.jpg/320px-Java_20131025_1864663017.jpg"/>
