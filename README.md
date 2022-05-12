@@ -27,4 +27,4 @@ Notably, an A class can contain a field of type B, where B is defined later in t
 🔹 In the output the variables and the functions are printed together with their memory-offset and scope.
 
 ## Built With
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Java_20131025_1864663017.jpg/320px-Java_20131025_1864663017.jpg"/>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
